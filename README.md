@@ -29,5 +29,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=januszpolak&show_icons=false">
 
 <br><br>
-Check me Facebook: <a href="https://www.facebook.com/janusz.polak.7/"><img src="https://cdn.svgporn.com/logos/facebook.svg" height="24px"></a><br>
+Check my Facebook: <a href="https://www.facebook.com/janusz.polak.7/"><img src="https://cdn.svgporn.com/logos/facebook.svg" height="24px"></a><br>
 Find me on LinkedIn: <a href="https://www.linkedin.com/in/janusz-polak/"><img src="https://cdn.svgporn.com/logos/linkedin.svg" height="24px"></a><br>
