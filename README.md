@@ -5,7 +5,6 @@
 
 -  **Learning :** Front End and Back End technologies :zap::fire:    
 -  **Languages :** now focusing on C# and SQL
--  **Frameworks :** ReactJs, Angular
 -  **Hobbies :** F1 Racing :car: & Budget travelling :fire:
 -  **Contact me :** [JanuszPolak](mailto:janusz.polak@interia.pl)
 
